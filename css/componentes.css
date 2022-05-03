@@ -229,7 +229,7 @@
      outline: none;
  }
 
- @media(min-width: 982px){
+ @media(min-width: 983px){
      .botao-chaveador{
          display: none;
      }
