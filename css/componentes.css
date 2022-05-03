@@ -140,7 +140,7 @@
      font-size: 1em;
  }
 
- @media(min-width: 992px){
+ @media(min-width: 981px){
      .chamada{
          padding-left: 10%;
          padding-right: 10%;
@@ -229,7 +229,7 @@
      outline: none;
  }
 
- @media(min-width: 762px){
+ @media(min-width: 982px){
      .botao-chaveador{
          display: none;
      }
